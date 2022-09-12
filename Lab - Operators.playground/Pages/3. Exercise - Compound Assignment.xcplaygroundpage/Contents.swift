@@ -19,8 +19,10 @@ value *= 1.2
  */
 var piggyBank = 0
 piggyBank += 10
-piggyBank += 
-
+piggyBank += 20
+piggyBank /= 2
+piggyBank *= 3
+piggyBank -= 3
 
 /*:
 [Previous](@previous)  |  page 3 of 8  |  [Next: App Exercise - Counting](@next)
